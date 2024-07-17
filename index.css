@@ -112,7 +112,7 @@ a {
     height: 0;
     transition: all 0.3s ease;
     border-radius: 20px;
-    background: linear-gradient(315deg, #20B2AA 0%, #48D1CC 74%);
+    background: linear-gradient(315deg, #6FAFF5 0%, #84CCF0 74%);
     z-index: -1;
 }
 
